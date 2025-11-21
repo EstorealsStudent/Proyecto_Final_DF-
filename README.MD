@@ -16,7 +16,6 @@ Este proyecto es una página web diseñada para ser publicada mediante **GitHub 
 6. Guarda los cambios.
 
 ## Enlace del proyecto publicado
-> **Reemplaza esta línea con tu enlace de GitHub Pages cuando lo tengas:**
->
+
 > https://estorealsstudent.github.io/Proyecto_Final_DF-/
 
