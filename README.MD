@@ -15,11 +15,6 @@ Este proyecto es una página web diseñada para ser publicada mediante **GitHub 
 5. Selecciona la carpeta `/root` (o `/docs` si usas esa estructura).
 6. Guarda los cambios.
 
-GitHub generará un enlace parecido a:
-```
-https://estorealsstudent.github.io/Proyecto_Final_DF-/
-```
-
 ## Enlace del proyecto publicado
 > **Reemplaza esta línea con tu enlace de GitHub Pages cuando lo tengas:**
 >
